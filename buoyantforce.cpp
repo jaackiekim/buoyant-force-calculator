@@ -1,6 +1,4 @@
 //  Jacqueline Kim
-//  Assignment 4: Chapter 3 Practice Problem #6
-//  CS002 - Professor Ashraf
 //  This program calculates the buoyant force to determine whether a sphere will sink or float in water.
 //  Last modified 3/6/19
 
